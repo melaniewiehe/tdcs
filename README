@@ -1,0 +1,4 @@
+fMRI analysis
+(preprocessed with fMRIprep)
+1. create design matrix
+2. smoothing
